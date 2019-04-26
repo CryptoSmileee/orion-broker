@@ -69,4 +69,4 @@ Read more about the Orion Protocol here: https://orionprotocol.io/
 
 ## License
 
-Orion Trading Terminal is released under the [MIT license](./LICENSE).
+Orion Broker is released under the [MIT license](./LICENSE).
