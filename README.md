@@ -42,11 +42,12 @@
 
 1. Clone the repo: `git clone https://github.com/orionprotocol/orion-broker.git`
 2. Open orion-broker folder:  `cd orion-broker`
-3. Fetch the dependencies: `npm install`
-4. Start the program: `npm start`
+3. Fetch the dependencies: `npm install` or `yarn install`
+4. Start the program: `npm start`or `yarn start`
 
 ## Requirements
 - Nodejs
+- npm or yarn
 
 ## Supported Exchanges
 - Binance
